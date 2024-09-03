@@ -1,5 +1,9 @@
+Certainly! You can add a badge to your `README.md` file that indicates the package version on PyPI. This can be done using services like shields.io. Here's how you can add a PyPI version badge and an installation command to your `README.md`:
+
+```markdown
 # YouTube Transcript CLI
 
+[![PyPI Version](https://img.shields.io/pypi/v/youtube-transcript-cli.svg)](https://pypi.org/project/youtube-transcript-cli/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the YouTube Transcript CLI! This tool allows you to fetch and display transcripts of YouTube videos right from your terminal. Whether you're a developer, researcher, or just curious, this tool has got you covered!
@@ -13,7 +17,7 @@ Welcome to the YouTube Transcript CLI! This tool allows you to fetch and display
 
 ## Installation
 
-To install the YouTube Transcript CLI, simply run:
+You can install the YouTube Transcript CLI from PyPI using pip:
 
 ```bash
 pip install youtube-transcript-cli
@@ -57,4 +61,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by NickMystic (https://github.com/ghostofpokemon)
+Made with ❤️ by [Your Name](https://github.com/ghostofpokemon)
